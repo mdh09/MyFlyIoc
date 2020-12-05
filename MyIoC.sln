@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIoC", "MyIoC\MyIoC.csproj", "{2F8BB67F-A631-41FE-B71E-0A71EFC2E014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIoC.Tests", "MyIoC.Tests\MyIoC.Tests.csproj", "{2D07EE95-6ABA-46C8-BE70-3BD8D76DE778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F8BB67F-A631-41FE-B71E-0A71EFC2E014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8BB67F-A631-41FE-B71E-0A71EFC2E014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8BB67F-A631-41FE-B71E-0A71EFC2E014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8BB67F-A631-41FE-B71E-0A71EFC2E014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D07EE95-6ABA-46C8-BE70-3BD8D76DE778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D07EE95-6ABA-46C8-BE70-3BD8D76DE778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D07EE95-6ABA-46C8-BE70-3BD8D76DE778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D07EE95-6ABA-46C8-BE70-3BD8D76DE778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
